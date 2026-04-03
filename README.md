@@ -1,4 +1,4 @@
-- 👋 Hi! I’m @Samoyedeu, a 4th year undergraduate student pursuing a Bachelor of Science in Computer Science Major in Technology degree at De La Salle University.
+- 👋 Hi! I’m @Samoyedeu, a graduate student fromDe La Salle University with a degree of Bachelor of Science in Computer Science Major in Technology.
 - 👀 I'm interested in gym, music, and games.
 - 🌱 I’m currently learning Korean. 
 - 📫 How to reach me ... sncaasi.work@gmail.com 
